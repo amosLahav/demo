@@ -1,0 +1,33 @@
+{ "data": [
+{
+   "Case ID": 1,
+   "Customer ID": 818591,
+   "Provider": 6111,
+   "CREATED_ERROR_CODE": 324,
+   "STATUS": "Open",
+   "TICKET_CREATION_DATE": "3/14/2019 16:30",
+   "LAST_MODIFIED_DATE": "3/17/2019 3:41",
+   "PRODUCT_NAME": "BLUE"
+},
+{
+   "Case ID": 2,
+   "Customer ID": 790521,
+   "Provider": 26241,
+   "CREATED_ERROR_CODE": 0,
+   "STATUS": "Closed",
+   "TICKET_CREATION_DATE": "3/4/2019 9:30",
+   "LAST_MODIFIED_DATE": "3/5/2019 2:47",
+   "PRODUCT_NAME": "BLUE"
+},
+{
+   "Case ID": 3,
+   "Customer ID": 738081,
+   "Provider": 1211,
+   "CREATED_ERROR_CODE": 101,
+   "STATUS": "Closed",
+   "TICKET_CREATION_DATE": "2/5/2019 0:30",
+   "LAST_MODIFIED_DATE": "2/10/2019 1:52",
+   "PRODUCT_NAME": "BLUE"
+}
+        ]
+}
